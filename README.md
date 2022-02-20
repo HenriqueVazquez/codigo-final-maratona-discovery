@@ -29,9 +29,10 @@
   # description
   
   <p>Application to calculate the cash flow of a professional, only the frontend</p>
+  <p align="center">
   <a href="https://henriquevazquez.github.io/codigo-final-maratona-discovery/index.html#" target="_blank" rel="noopener noreferrer">
     <img alt="Test here" src="https://img.shields.io/badge/Test%20here-Dev.Finance$-%09165F">
-  </a>
+  </a> </p>
   
 
 # 🎥 Screen Shot
