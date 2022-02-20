@@ -15,10 +15,10 @@
   </a>
   
   <a href="https://github.com/HenriqueVazquez/codigo-final-maratona-discovery/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/HenriqueVazquez/codigo-final-maratona-discovery?color=%09165F">
-    
-    <img alt="GitHub" src="https://img.shields.io/github/license/HenriqueVazquez/codigo-final-maratona-discovery?color=%237D40E7">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/HenriqueVazquez/codigo-final-maratona-discovery?color=%09165F">       
   </a>
+  
+  <img alt="GitHub" src="https://img.shields.io/github/license/HenriqueVazquez/codigo-final-maratona-discovery?color=%09165F">
   
 <p>
 
