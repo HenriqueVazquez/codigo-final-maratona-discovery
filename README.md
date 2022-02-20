@@ -28,8 +28,8 @@
   
   # description
   
-  Application to calculate the cash flow of a professional, only the frontend
-  test the application yourself:
+  <p>Application to calculate the cash flow of a professional, only the frontend</p>
+  <p>test the application yourself:</p>  
   https://henriquevazquez.github.io/codigo-final-maratona-discovery/index.html#
 
 # 🎥 Screen Shot
