@@ -9,4 +9,4 @@
 🎥
 
 <div align="center">
-<img src="./assets/screenShot/telaPrincipal">
+<img src="./assets/screenShot/telaPrincipal.png">
