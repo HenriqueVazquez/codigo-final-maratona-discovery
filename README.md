@@ -25,6 +25,10 @@
 * HTML
 * CSS
 * JavaScript
+  
+  # description
+  
+  Application to calculate the cash flow of a professional, only the frontend
 
 # 🎥 Screen Shot
 
