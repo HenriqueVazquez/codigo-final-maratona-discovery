@@ -53,10 +53,17 @@ h2{
 a {
     color: var(--green);
     text-decoration: none;
+    
 }
 
 a:hover {
     color: var(--light-green);
+}
+
+a #social {
+    pointer-events: auto;
+    pointer-events: pointer;
+    
 }
 
 button {
@@ -240,12 +247,15 @@ td.expense {
 .modal-overlay.active {
     opacity: 1;
     visibility: visible;
+    z-index: 10;
+
     
 }
 
 .modal {
     background: #f0f2f5;
     padding: 2.4rem;  
+   
   
     
     
@@ -300,7 +310,7 @@ footer {
     padding: 4rem 0 2rem;
     color: var(--dark-blue);
     opacity: 0.6;
-    z-index: -1;
+    z-index: 0;
 }
 
 /* Responsive ==========================================*/
